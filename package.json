@@ -2,7 +2,7 @@
   "name": "personal-portfolio",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://praneetog.github.io/<portfolio>",
+  "homepage": "https://praneetog.github.io/portfolio",
   "type": "module",
   "scripts": {
     "dev": "vite",
