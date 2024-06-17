@@ -9,10 +9,8 @@ const Projects = () => {
         A paragraph is a self-contained unit of discourse in writing dealing with a particular point or idea. Though not required by the orthographic conventions of any language with a writing system, paragraphs are a conventional means of organizing extended segments of prose.
         </p>
         <div className='grid sm:grid-cols-2 gap-12'>
-            <ProjectItems />
-            <ProjectItems />
-            <ProjectItems />
-            <ProjectItems />
+            <ProjectItems img={} title={Nike-app} />
+            <ProjectItems img={} title={} />
         </div>
     </div>
   )
